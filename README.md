@@ -43,7 +43,7 @@ The goal of this project was to develop an interactive dashboard that would prov
 
 ## Dashboard Image
 
-![NorthWind Sales Dashboard](./Images/NorthWind_Dashboard.png)
+![NorthWind Sales Dashboard](NorthWind%20Analysis.png)
 
 ---
 
